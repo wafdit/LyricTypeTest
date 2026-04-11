@@ -54,12 +54,3 @@ Saat ini tersedia lirik dari artis-artis berikut:
 * **Ketik**: Mulai mengetik untuk mengaktifkan timer secara otomatis.
 * **Backspace**: Menghapus karakter yang salah (sebelum sesi selesai).
 * **Tab**: Memuat ulang lagu baru secara instan jika ingin mengganti tantangan.
-
----
-
-### 📝 Catatan Pengembang
-Aplikasi ini menggunakan sistem *CardLayout* untuk transisi yang mulus antara layar pengetikan dan layar hasil statistik. Setiap komponen visual seperti `StatCard` dan `typingUI` digambar secara manual untuk memastikan tampilan yang unik dan modern.
-
-> "Music expresses that which cannot be said and on which it is impossible to be silent." - *Victor Hugo*
-
----
