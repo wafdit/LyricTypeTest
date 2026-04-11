@@ -63,4 +63,3 @@ Aplikasi ini menggunakan sistem *CardLayout* untuk transisi yang mulus antara la
 > "Music expresses that which cannot be said and on which it is impossible to be silent." - *Victor Hugo*
 
 ---
-**Dibuat oleh:** [salma]
