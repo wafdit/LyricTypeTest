@@ -18,19 +18,6 @@
 
 ---
 
-## 🛠️ Spesifikasi Teknis
-
-Aplikasi ini dibangun menggunakan teknologi berikut:
-
-| Komponen | Teknologi |
-| :--- | :--- |
-| **Bahasa** | Java 25 |
-| **Framework** | Java Swing & AWT |
-| **Build Tool** | Maven |
-| **Rendering** | Graphics2D dengan Anti-Aliasing |
-
----
-
 ## 🎵 Daftar Lagu (Database)
 
 Saat ini tersedia lirik dari artis-artis berikut:
