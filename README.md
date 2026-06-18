@@ -115,7 +115,7 @@ mvn clean compile exec:java -Dexec.mainClass="com.mycompany.tubestes1.Tubestes1"
 2. **Frank Ocean** — *Pink + White*
 3. **Laufey** — *Promise*
 
-*(Mudah ditambahkan lagu baru ke database)*
+*(Lyrics Fetcher coming soon)*
 
 ---
 
