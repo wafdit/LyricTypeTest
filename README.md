@@ -1,3 +1,4 @@
+![LyricType Banner](https://files.oaiusercontent.com/file-v8wI4?se=2026-06-19T00%3A00%3A00Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D3628800%2C%20immutable&rscd=attachment%3B%20filename%3DChatGPT%20Image%20Jun%2018%2C%202026%2C%2005_30_29%20PM.png)
 # 🎵 LyricType - *Feel the Rhythm, Master the Keys*
 
 **Aplikasi typing test berbasis Java Swing** yang mengubah latihan mengetik biasa menjadi pengalaman musik yang imersif dan menyenangkan.
