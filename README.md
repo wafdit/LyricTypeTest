@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://github.com/user-attachments/assets/abc12345-def6-7890-gh12-ijkl34567890](https://github.com/user-attachments/assets/f3b25d68-7acc-4786-8215-c0268a0efaa2)" width="100%">
-</p>
+![LyricType Banner](https://github.com/user-attachments/assets/f3b25d68-7acc-4786-8215-c0268a0efaa2)
 
 # 🎵 LyricType - *Feel the Rhythm, Master the Keys*
 
