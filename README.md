@@ -14,6 +14,8 @@
   - **Leaderboard & Progress Tracking**
 - **🎨 UI Modern Dengan Berbagai Tema**
 - **🏆 Sistem Akun** — Registrasi, login, penyimpanan score, poin, dan level permanen
+- **⌨️ Virtual Keyboard** — Virtual keyboard yang setiap tombolnya ter-highlight secara live ketika mengetik
+- **⌨️ Layout Keyboard Selector** — Terdapat bermacam-macam layot keyboard yang tersedia untuk virtual keyboard seperti QWERTY, QWERTZ, AZERTY, Dvorak, dan Colemak 
 
 ---
 
@@ -103,8 +105,6 @@ mvn clean compile exec:java -Dexec.mainClass="com.mycompany.tubestes1.Tubestes1"
 
 - **Ketik langsung** → Timer otomatis mulai
 - **Backspace** → Hapus karakter salah
-- **Tab** → Ganti lagu baru
-- **Enter** → Login / Register
 
 ---
 
