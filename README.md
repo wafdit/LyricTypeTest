@@ -98,7 +98,7 @@ git clone https://github.com/wafdit/LyricTypeTest.git
 cd LyricTypeTest
 
 # Build dan jalankan
-mvn clean compile exec:java -Dexec.mainClass="com.mycompany.tubestes1.Tubestes1"
+mvn clean compile exec:java -Dexec.mainClass="com.mycompany.LyricType.Tubestes2"
 ```
 
 ---
