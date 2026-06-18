@@ -15,7 +15,7 @@
 - **🎨 UI Modern Dengan Berbagai Tema**
 - **🏆 Sistem Akun** — Registrasi, login, penyimpanan score, poin, dan level permanen
 - **⌨️ Virtual Keyboard** — Virtual keyboard yang setiap tombolnya ter-highlight secara live ketika mengetik
-- **⌨️ Layout Keyboard Selector** — Terdapat bermacam-macam layot keyboard yang tersedia untuk virtual keyboard seperti QWERTY, QWERTZ, AZERTY, Dvorak, dan Colemak 
+- **⌨️ Keyboard Layout Selector** — Terdapat bermacam-macam layot keyboard yang tersedia untuk virtual keyboard seperti QWERTY, QWERTZ, AZERTY, Dvorak, dan Colemak 
 
 ---
 
