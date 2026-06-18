@@ -9,7 +9,7 @@
 - **🎤 Lirik Dinamis** — Potongan lirik lagu populer yang diambil secara acak dari database
 - **⏱️ Tantangan 30 Detik** — Mode waktu intens untuk menguji kecepatan mengetik
 - **📊 Analisis Akurat**:
-  - **WPM** (Words Per Minute) dengan standar 5 karakter
+  - **WPM** (Words Per Minute)
   - **Akurasi** real-time dengan deteksi kesalahan
   - **Leaderboard & Progress Tracking**
 - **🎨 UI Modern Dark Mode** — Desain estetik dengan rounded buttons dan kartu statistik
