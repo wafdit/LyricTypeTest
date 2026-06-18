@@ -1,4 +1,4 @@
-![LyricType Banner](https://github.com/user-attachments/assets/f3b25d68-7acc-4786-8215-c0268a0efaa2)
+![LyricType Banner](https://github.com/user-attachments/assets/59734f7f-2c83-4e85-8a1f-aafd9cbf5920)
 
 # 🎵 LyricType - *Feel the Rhythm, Master the Keys*
 
