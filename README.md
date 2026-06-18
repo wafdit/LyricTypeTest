@@ -1,4 +1,6 @@
-![LyricType Banner]([https://files.oaiusercontent.com/file-v8wI4?se=2026-06-19T00%3A00%3A00Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D3628800%2C%20immutable&rscd=attachment%3B%20filename%3DChatGPT%20Image%20Jun%2018%2C%202026%2C%2005_30_29%20PM.pn](https://github.com/user-attachments/assets/f3b25d68-7acc-4786-8215-c0268a0efaa2))
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/abc12345-def6-7890-gh12-ijkl34567890](https://github.com/user-attachments/assets/f3b25d68-7acc-4786-8215-c0268a0efaa2)" width="100%">
+</p>
 # 🎵 LyricType - *Feel the Rhythm, Master the Keys*
 
 **Aplikasi typing test berbasis Java Swing** yang mengubah latihan mengetik biasa menjadi pengalaman musik yang imersif dan menyenangkan.
