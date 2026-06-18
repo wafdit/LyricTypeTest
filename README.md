@@ -100,7 +100,7 @@ mvn clean compile exec:java -Dexec.mainClass="com.mycompany.tubestes1.Tubestes1"
 
 ---
 
-## 🎮 Kontrol Permainan
+## 🎮 Controls
 
 - **Ketik langsung** → Timer otomatis mulai
 - **Backspace** → Hapus karakter salah
