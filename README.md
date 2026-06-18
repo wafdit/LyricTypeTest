@@ -7,12 +7,12 @@
 ## ✨ Fitur Utama
 
 - **🎤 Lirik Dinamis** — Potongan lirik lagu populer yang diambil secara acak dari database
-- **⏱️ Tantangan 30 Detik** — Mode waktu intens untuk menguji kecepatan mengetik
+- **⏱️ Timer 30 Detik** — Mode waktu intens untuk menguji kecepatan mengetik (*Timer selector coming soon*)
 - **📊 Analisis Akurat**:
   - **WPM** (Words Per Minute)
   - **Akurasi** real-time dengan deteksi kesalahan
   - **Leaderboard & Progress Tracking**
-- **🎨 UI Modern Dark Mode** — Desain estetik dengan rounded buttons dan kartu statistik
+- **🎨 UI Modern Dengan Berbagai Tema**
 - **🏆 Sistem Akun** — Registrasi, login, penyimpanan score, poin, dan level permanen
 - **🖼️ Visual Album Art** — Menampilkan cover album secara dinamis
 
