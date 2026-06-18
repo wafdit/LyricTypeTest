@@ -17,7 +17,7 @@
 
 ---
 
-## 🏷️ Teknologi
+## 🏷️ Tools
 
 ![Java](https://img.shields.io/badge/Java-25+-ED8B00?logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.9+-C71A36?logo=apachemaven&logoColor=white)
