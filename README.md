@@ -14,7 +14,6 @@
   - **Leaderboard & Progress Tracking**
 - **🎨 UI Modern Dengan Berbagai Tema**
 - **🏆 Sistem Akun** — Registrasi, login, penyimpanan score, poin, dan level permanen
-- **🖼️ Visual Album Art** — Menampilkan cover album secara dinamis
 
 ---
 
