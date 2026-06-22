@@ -1,0 +1,15 @@
+CREATE TABLE users (
+    username VARCHAR(50) PRIMARY KEY,
+    password VARCHAR(255) NOT NULL,
+    points INT DEFAULT 0,
+    level INT DEFAULT 1
+);
+
+CREATE TABLE scores (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    username VARCHAR(50),
+    wpm INT,
+    accuracy DOUBLE,
+    play_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (username) REFERENCES users(username) ON DELETE CASCADE
+);
